@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hartjohn
 - 👀 I’m interested in data visualization
-- 🌱 I’m currently learning React, Node
+- 🌱 Teaching fundamentals of HTML5, CSS, and JavaScript at KONEXIO
 
 <!---
 hartjohn/hartjohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
